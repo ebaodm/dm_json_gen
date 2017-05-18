@@ -24,7 +24,7 @@ public class SetSystemProperty {
     static String profilepath="run.configure";
     /**
     * 采用静态方法
-    */
+    */ 
     private static Properties props = new Properties();
     static {
         try {
