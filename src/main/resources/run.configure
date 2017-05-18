@@ -1,0 +1,9 @@
+db.ip=172.16.28.46
+db.sid=o46g4
+db.port=1523
+db.user=ergo_dm_src_2A
+db.pwd=ergo_dm_src_2Apwd
+callapi.url=http://172.25.16.125/restlet/v1/pa/migration/policy
+callapi.auth=Basic QURNSU46ZUJhbzEyMzQ= 
+
+
